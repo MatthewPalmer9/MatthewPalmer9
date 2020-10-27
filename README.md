@@ -1,4 +1,8 @@
-![Matthew Palmer Banner](https://github.com/MatthewPalmer9/MatthewPalmer9/blob/master/github-logo.jpg?raw=true)
+<code>
+    <p align="center">
+        <img width="500" height="300" src="https://github.com/MatthewPalmer9/MatthewPalmer9/blob/master/github-logo.jpg?raw=true">
+    </p>
+</code>
 
 ### Hey 👋, I'm Matthew Palmer! I'm a Software Engineer from Austin, TX.
 I have a passion for solving problems with computers. I have been coding for 3 years with experience in full stack web development. I am always eager to learn and grow as a developer. Want to connect and collab on a project? I'm always looking for a new coding buddy!
