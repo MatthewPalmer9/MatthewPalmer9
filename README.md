@@ -1,6 +1,6 @@
 <code>
     <p align="center">
-        <img width="500" height="300" src="https://github.com/MatthewPalmer9/MatthewPalmer9/blob/master/github-logo.jpg?raw=true">
+        <img width="800" height="250" src="https://github.com/MatthewPalmer9/MatthewPalmer9/blob/master/github-logo.jpg?raw=true">
     </p>
 </code>
 
