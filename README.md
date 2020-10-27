@@ -5,6 +5,10 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 <a href='https://www.linkedin.com/in/matthewpalmer9/'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href='https://twitter.com/mattpdev'>
+    <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg">
+</a>
+
 
 
 ### Languages and Tools:
@@ -20,8 +24,10 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 
 ### About Me:
 - Open to software engineering roles in the Austin area.
+- Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/matthewpalmer9)
+- 🌱 I’m currently building **JavaScript projects to learn more about designing and advanced algorithms**
 - I'm currently working on [Animated Navbar](https://github.com/matthewpalmer9/animated-navbar).
-- I'm currently working as an Assistant Manager at [Domino's Pizza](https://dominos.com/)
+- My latest project was [Tip Calculator](https://github.com/matthewpalmer9/js-tip-calculator)
 - [My Resume](https://mrp-technologies.now.sh/static/media/MatthewPalmerResume.7a507293.docx)
 - [My Portfolio](https://mrp-technologies.now.sh/)
 
