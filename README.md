@@ -26,3 +26,4 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 - [My Portfolio](https://mrp-technologies.now.sh/)
 
 <img alt='matthewpalmer9 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=matthewpalmer9&show_icons=true&hide_border=true'/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewpalmer9&layout=compact" alt="matthewpalmer9" /></p>
