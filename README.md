@@ -26,8 +26,8 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 - Open to software engineering roles in the Austin area.
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/matthewpalmer9)
 - 🌱 I’m currently building **JavaScript projects to learn more about designing and advanced algorithms**
-- I'm currently working on [Animated Navbar](https://github.com/matthewpalmer9/animated-navbar).
-- My latest project was [Tip Calculator](https://github.com/matthewpalmer9/js-tip-calculator)
+- I'm currently collaborating on [The Toolbox](https://github.com/MatthewPalmer9/thetoolbelt) together with a bunch of other great engineers!
+- My latest project was [Animated Navbar](https://github.com/matthewpalmer9/animated-navbar)
 - [My Resume](https://mrp-technologies.now.sh/static/media/MatthewPalmerResume.7a507293.docx)
 - [My Portfolio](https://mrp-technologies.now.sh/)
 
