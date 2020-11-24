@@ -8,6 +8,9 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 <a href='https://twitter.com/mattpdev'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg">
 </a>
+<a href='https://dev.to/matthewpalmer9'>
+    <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg">
+</a>
 
 
 
@@ -23,12 +26,12 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/></code>
 
 ### About Me:
-- Open to software engineering roles in the Austin area.
+- Open to software engineering roles anywhere in Texas or remote!
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/matthewpalmer9)
 - 🌱 I’m currently building **JavaScript projects to learn more about designing and advanced algorithms**
-- I'm currently collaborating on [The Toolbox](https://github.com/MatthewPalmer9/thetoolbelt) together with a bunch of other great engineers!
-- My latest project was [Animated Navbar](https://github.com/matthewpalmer9/animated-navbar)
-- [My Resume](https://mrp-technologies.now.sh/static/media/MatthewPalmerResume.7a507293.docx)
+- My current project is [Weather App](https://github.com/matthewpalmer9/weather-app)
+- My previous project is [React Drag N' Drop](https://github.com/MatthewPalmer9/react-drag-drop)
+- [My Resume](https://docs.google.com/document/d/12wxIOwUbB73DCBfDr88eU5zr6fRSz4whHWNun1hgeVs)
 - [My Portfolio](https://mrp-technologies.now.sh/)
 
 <img alt='matthewpalmer9 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=matthewpalmer9&show_icons=true&hide_border=true'/>
