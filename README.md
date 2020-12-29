@@ -1,4 +1,4 @@
-### Hey 👋, I'm Matthew Palmer! I'm a Ruby on Rails Developer from Austin, TX.
+### Hey 👋, I'm Matthew Palmer! I'm a Full Stack Ruby on Rails/React Developer from Austin, TX.
 I have a passion for solving with computers. I have been coding for 3 years with experience in full stack web development. I am always eager to learn and grow as a developer. Want to connect and collab on a project? I'm always looking for a new coding buddy!
 
 ### Connect with me:
