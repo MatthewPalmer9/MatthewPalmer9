@@ -28,7 +28,7 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 - Open to Full Stack Developer roles anywhere in Texas or remote!
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/matthewpalmer9)
 - 🌱 I’m currently building **JavaScript projects to learn more about designing and algorithms**
-- My current project is a Christmas List app called **JollyList** => (Client](https://github.com/matthewpalmer9/christmaslist) | [Server](https://github.com/matthewpalmer9/christmaslist-api)
+- My current project is a Christmas List app called **JollyList** => [Client](https://github.com/matthewpalmer9/christmaslist) | [Server](https://github.com/matthewpalmer9/christmaslist-api)
 - My previous project is [My New Portfolio](https://github.com/matthewpalmer9/mattpdev) | [Live Link](https://MatthewOnRails.com/)
 - [My Resume](https://docs.google.com/document/d/12wxIOwUbB73DCBfDr88eU5zr6fRSz4whHWNun1hgeVs)
 - [My Portfolio](https://MatthewOnRails.com)
