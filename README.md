@@ -28,10 +28,10 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 - Open to Full Stack Developer roles anywhere in Texas or remote!
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/matthewpalmer9)
 - 🌱 I’m currently building **JavaScript projects to learn more about designing and algorithms**
-- My current project is [My New Portfolio](https://github.com/matthewpalmer9/mattpdev) | [Live Link - Check back periodically for updates!](https://MatthewOnRails.com/)
-- My previous project is [React Drag N' Drop](https://github.com/MatthewPalmer9/react-drag-drop)
+- My current project is a Christmas List app called **JollyList** => (Client](https://github.com/matthewpalmer9/christmaslist) | [Server](https://github.com/matthewpalmer9/christmaslist-api)
+- My previous project is [My New Portfolio](https://github.com/matthewpalmer9/mattpdev) | [Live Link](https://MatthewOnRails.com/)
 - [My Resume](https://docs.google.com/document/d/12wxIOwUbB73DCBfDr88eU5zr6fRSz4whHWNun1hgeVs)
-- [My Portfolio](https://mrp-technologies.now.sh/)
+- [My Portfolio](https://MatthewOnRails.com)
 
 <img alt='matthewpalmer9 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=matthewpalmer9&show_icons=true&hide_border=true'/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewpalmer9&layout=compact" alt="matthewpalmer9" /></p>
