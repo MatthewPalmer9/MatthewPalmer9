@@ -28,7 +28,7 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 - Open to Frontend Developer roles anywhere in Texas or remote!
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/matthewpalmer9)
 - 🌱 I’m currently learning **Sass (SCSS)**
-- My current project is **iOS Calculator** => [Client](https://github.com/matthewpalmer9/ios-calculator) [Live Link](https://ios-calculator-wine.vercel.app/)
+- My current project is **iOS Calculator** => [Client](https://github.com/matthewpalmer9/ios-calculator) | [Live Link](https://ios-calculator-wine.vercel.app/)
 - My previous project is [My New Portfolio](https://github.com/matthewpalmer9/mattpdev) | [Live Link](https://MatthewOnRails.com/)
 - [My Resume](https://docs.google.com/document/d/12wxIOwUbB73DCBfDr88eU5zr6fRSz4whHWNun1hgeVs)
 - [My Portfolio](https://MatthewOnRails.com)
