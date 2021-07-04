@@ -1,5 +1,5 @@
-### Hey 👋, I'm Matthew Palmer! I'm a Frontend JavaScript/React Developer from Austin, TX.
-I have a passion for solving problems with computers. I have been coding for 3 years with experience in full stack web development, but I'm working towards frontend mastery. I am always eager to learn and grow as a developer. Want to connect and collab on a project? I'm always looking for a new coding buddy!
+### Hey 👋, I'm Matthew Palmer! I'm an Application Developer with IBM currently living in the Austin, TX area.
+I have a passion for solving problems with computers. I have been coding for 4 years with experience in full stack web development. I am always eager to learn and grow as a developer. Want to connect with me? Are you maybe looking for a mentor? I love helping people succeed in life, so please do reach out to me if you would like to have a chat!
 
 ### Connect with me:
 <a href='https://www.linkedin.com/in/matthewpalmer9/'>
@@ -27,7 +27,7 @@ I have a passion for solving problems with computers. I have been coding for 3 y
 ### About Me:
 - Open to Frontend Developer roles anywhere in Texas or remote!
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/matthewpalmer9)
-- 🌱 I’m currently learning **Sass (SCSS)**
+- 🌱 I’m currently learning **Python**
 - My current project is **iOS Calculator** => [Client](https://github.com/matthewpalmer9/ios-calculator) | [Live Link](https://ios-calculator-wine.vercel.app/)
 - My previous project is [My New Portfolio](https://github.com/matthewpalmer9/mattpdev) | [Live Link](https://MatthewOnRails.com/)
 - [My Resume](https://docs.google.com/document/d/12wxIOwUbB73DCBfDr88eU5zr6fRSz4whHWNun1hgeVs)
