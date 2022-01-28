@@ -1,8 +1,8 @@
-### Hey 👋, I'm Matthew Palmer! I'm an Application Developer with IBM currently living in the Austin, TX area.
-I have a passion for solving problems with computers. I have been coding for 4 years with experience in full stack web development. I am always eager to learn and grow as a developer. Want to connect with me? Are you maybe looking for a mentor? I love helping people succeed in life, so please do reach out to me if you would like to have a chat!
+### Hey 👋, I'm Matthew Palmer! I'm a front-end developer currently living in the Austin, TX area.
+I have a passion for solving problems with computers. I have experience in HTML, CSS, and JavaScript-based technologies crucial to responsive and accessible UI/UX design. I am also capable of back-end development using Ruby on Rails API and Java Spring Boot, enabling me to have end-to-end full stack knowledge. I have also have some experience building microservices and containerizing them for deployment with Docker and Kubernetes.  
 
 ### Connect with me:
-<a href='https://www.linkedin.com/in/matthewpalmer9/'>
+<a href='https://www.linkedin.com/in/mattpdev/'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href='https://twitter.com/mattpdev'>
@@ -31,12 +31,12 @@ I have a passion for solving problems with computers. I have been coding for 4 y
 <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/mysql.svg" /></code>
 
 ### About Me:
-- Currently not in search of a role! :) 
-- 🌱 I’m currently learning **DevOps Automation/TDD**
-- My current project is **iOS Calculator** => [Client](https://github.com/matthewpalmer9/ios-calculator) | [Live Link](https://ios-calculator-wine.vercel.app/)
-- My previous project was [My New Portfolio](https://github.com/matthewpalmer9/mattpdev) | [Live Link](https://MatthewOnRails.com/)
-- [My Resume](https://docs.google.com/document/d/12wxIOwUbB73DCBfDr88eU5zr6fRSz4whHWNun1hgeVs)
-- [My Portfolio](https://MatthewOnRails.com)
+- Open to any local or fully remote Front-end roles! :)
+- 🌱 I’m currently learning: **AWS Developer Associate Course**
+- My current project is [My New Portfolio](https://github.com/matthewpalmer9/mattpdev) | [Live Link](https://mattpdev-portfolio.vercel.app/)
+- My previous project was **Omnifood** => [Client](https://github.com/matthewpalmer9/omnifood) | [Live Link](https://quirky-jennings-58c09b.netlify.app/)
+- [My Resume](https://docs.google.com/document/d/1yuXgihAsPcb3lwrUAWItfwbs_Se54S_Hr8WxQ7irF40)
+- [My Portfolio (Under construction)](https://mattpdev-portfolio.vercel.app/)
 
 <img alt='matthewpalmer9 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=matthewpalmer9&show_icons=true&hide_border=true'/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewpalmer9&layout=compact" alt="matthewpalmer9" /></p>
