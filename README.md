@@ -33,7 +33,7 @@ I have a passion for solving problems with computers. I have experience in HTML,
 ### About Me:
 - Open to any local or fully remote Front-end roles! :)
 - 🌱 I’m currently learning: **AWS Developer Associate Course**
-- My current project is **My New Portfolio** [Code](https://github.com/matthewpalmer9/mattpdev) | [Demo](https://mattpdev-portfolio.vercel.app/)
+- My current project is **My New Portfolio** => [Code](https://github.com/matthewpalmer9/mattpdev) | [Demo](https://mattpdev-portfolio.vercel.app/)
 - My previous project was **Omnifood** => [Code](https://github.com/matthewpalmer9/omnifood) | [Demo](https://quirky-jennings-58c09b.netlify.app/)
 - [My Resume](https://docs.google.com/document/d/1yuXgihAsPcb3lwrUAWItfwbs_Se54S_Hr8WxQ7irF40)
 - [My Portfolio (Under construction)](https://mattpdev-portfolio.vercel.app/)
