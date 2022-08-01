@@ -31,11 +31,11 @@ I have a passion for solving problems with computers. I have experience in HTML,
 <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/mysql.svg" /></code>
 
 ### About Me:
-- Open to any local or fully remote Front-end roles! :)
+- Open to Front-end Website Developer roles! :)
 - 🌱 I’m currently learning: **AWS Developer Associate Course**
 - My current project is **My New Portfolio** => [Code](https://github.com/matthewpalmer9/mattpdev) | [Demo](https://mattpdev-portfolio.vercel.app/)
-- My previous project was **Omnifood** => [Code](https://github.com/matthewpalmer9/omnifood) | [Demo](https://quirky-jennings-58c09b.netlify.app/)
-- [My Resume](https://docs.google.com/document/d/1yuXgihAsPcb3lwrUAWItfwbs_Se54S_Hr8WxQ7irF40)
+- My previous project was **Grand Hotel** => [Code](https://github.com/matthewpalmer9/grand-hotel) | [Demo](https://https://grand-hotel-silk.vercel.app/)
+- [My Resume](https://docs.google.com/document/d/1-4BHZ96uD8QJ2SkTX21MXHgcdytroYjalObEu8Azp_o)
 - [My Portfolio (Under construction)](https://mattpdev-portfolio.vercel.app/)
 
 <img alt='matthewpalmer9 Github Stats' src='https://github-readme-stats-k4dpfooit.vercel.app/api?username=matthewpalmer9&show_icons=true&hide_border=true'/>
