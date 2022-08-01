@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Matthew Palmer! I'm a front-end developer currently living in the Austin, TX area.
-I have a passion for solving problems with computers. I have experience in HTML, CSS, and JavaScript-based technologies crucial to responsive and accessible UI/UX design. I am also capable of back-end development using Ruby on Rails API and Java Spring Boot, enabling me to have end-to-end full stack knowledge. I have also have some experience building microservices and containerizing them for deployment with Docker and Kubernetes.  
+I have a passion for solving problems with computers. I have experience in HTML, CSS, and JavaScript-based technologies crucial to responsive and accessible UI/UX design. I am also experienced in back-end development using Ruby on Rails API, Express w/ MongoDB Atlas, and Java Spring Boot  enabling me to have end-to-end full stack knowledge. I have also have some experience building microservices and containerizing them for deployment with Docker and Kubernetes.  
 
 ### Connect with me:
 <a href='https://www.linkedin.com/in/mattpdev/'>
@@ -23,7 +23,6 @@ I have a passion for solving problems with computers. I have experience in HTML,
 <code><img width='40px' src='https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/html5.svg'/></code>
 <code><img width='40px' src='https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/css3.svg'/></code>
 <code><img width='40px' src='https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/javascript.svg'/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/angular.svg" /></code>
 <code><img width='40px' src='https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/react.svg'/></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/redux.svg" /></code>
 <code><img width='40px' src='https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/rubyonrails.svg'/></code>
